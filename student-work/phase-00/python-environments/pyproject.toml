@@ -1,0 +1,10 @@
+[project]
+name = "ai-environment-practice"
+version = "0.1.0"
+description = "Practice project for Python environments"
+requires-python = ">=3.12"
+
+dependencies = [
+    "torch",
+    "anthropic",
+]
