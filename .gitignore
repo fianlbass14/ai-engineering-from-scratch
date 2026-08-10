@@ -63,3 +63,8 @@ catalog.json
 site/sitemap.xml
 site/llms.txt
 site/build-meta.js
+
+student-work/phase-00/09-data-management/*.csv
+student-work/phase-00/09-data-management/*.parquet
+student-work/phase-00/09-data-management/*.json
+
